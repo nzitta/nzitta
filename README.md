@@ -2,7 +2,6 @@
 <h3 align="center">A code enthusiast from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nzitta&label=Profile%20views&color=0e75b6&style=flat" alt="nzitta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **ninareherg@gmail.com**
 
-- ⚡ Fun fact **<!-- meow -->**
+- ⚡ Fun fact ** meow **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
